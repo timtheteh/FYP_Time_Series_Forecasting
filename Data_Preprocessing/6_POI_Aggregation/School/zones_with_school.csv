@@ -1,0 +1,26 @@
+PULocationID,zone,school,school_school,school_primary_school,school_secondary_school,school_university
+13,Battery Park City,1,1,0,0,0
+24,Bloomingdale,1,1,0,0,0
+41,Central Harlem,1,1,0,0,0
+48,Clinton East,1,0,0,0,1
+75,East Harlem South,1,1,0,1,0
+100,Garment District,1,1,0,0,0
+113,Greenwich Village North,1,0,0,0,1
+114,Greenwich Village South,1,1,0,0,1
+116,Hamilton Heights,1,1,0,0,0
+137,Kips Bay,1,1,1,1,0
+142,Lincoln Square East,1,1,0,0,1
+148,Lower East Side,1,1,0,0,0
+151,Manhattan Valley,1,1,0,0,0
+162,Midtown East,1,1,0,0,0
+164,Midtown South,1,0,0,0,1
+166,Morningside Heights,1,0,0,0,1
+202,Roosevelt Island,1,1,0,0,0
+211,SoHo,1,1,0,0,0
+231,TriBeCa/Civic Center,1,1,0,0,0
+232,Two Bridges/Seward Park,1,1,1,0,0
+236,Upper East Side North,1,1,0,1,0
+238,Upper West Side North,1,1,0,0,1
+239,Upper West Side South,1,1,0,0,0
+244,Washington Heights South,1,1,0,0,1
+261,World Trade Center,1,1,0,1,0

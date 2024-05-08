@@ -1,0 +1,23 @@
+PULocationID,zone,food,food_bar,food_cafe,food_bakery,food_meal_delivery,food_meal_takeaway,food_restaurant
+13,Battery Park City,1,1,1,1,1,1,1
+48,Clinton East,1,1,0,1,0,1,1
+50,Clinton West,1,1,1,0,0,1,1
+79,East Village,1,1,1,0,1,0,1
+87,Financial District North,1,0,1,0,0,0,0
+114,Greenwich Village South,1,0,1,0,0,0,0
+140,Lenox Hill East,1,0,1,1,1,0,1
+141,Lenox Hill West,1,0,0,1,0,0,1
+142,Lincoln Square East,1,0,1,0,0,0,1
+144,Little Italy/NoLiTa,1,1,1,1,0,1,1
+148,Lower East Side,1,1,1,0,0,0,1
+162,Midtown East,1,1,1,0,0,0,1
+166,Morningside Heights,1,0,1,0,0,0,0
+186,Penn Station/Madison Sq West,1,1,1,1,0,0,1
+194,Randalls Island,1,0,0,1,0,0,0
+231,TriBeCa/Civic Center,1,1,0,1,0,0,1
+233,UN/Turtle Bay South,1,1,1,1,0,0,1
+238,Upper West Side North,1,0,0,1,0,1,1
+239,Upper West Side South,1,1,0,1,0,0,1
+249,West Village,1,1,1,0,0,0,1
+262,Yorkville East,1,0,1,0,0,0,1
+263,Yorkville West,1,1,0,1,0,1,1

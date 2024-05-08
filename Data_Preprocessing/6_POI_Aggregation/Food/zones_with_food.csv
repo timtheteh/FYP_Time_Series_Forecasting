@@ -1,0 +1,49 @@
+PULocationID,zone,food,food_bar,food_cafe,food_bakery,food_meal_delivery,food_meal_takeaway,food_restaurant
+4,Alphabet City,1,1,0,0,0,0,1
+13,Battery Park City,1,1,1,1,1,1,1
+41,Central Harlem,1,0,0,0,0,0,1
+42,Central Harlem North,1,0,0,0,0,0,1
+45,Chinatown,1,1,0,0,0,0,1
+48,Clinton East,1,1,0,1,0,1,1
+50,Clinton West,1,1,1,0,0,1,1
+79,East Village,1,1,1,0,1,0,1
+87,Financial District North,1,0,1,0,0,0,0
+88,Financial District South,1,1,0,0,0,0,1
+90,Flatiron,1,0,0,0,1,1,1
+100,Garment District,1,1,0,0,0,0,1
+103,Governor's Island/Ellis Island/Liberty Island,1,0,0,0,0,0,1
+113,Greenwich Village North,1,0,0,0,0,0,1
+114,Greenwich Village South,1,0,1,0,0,0,0
+116,Hamilton Heights,1,0,0,0,1,0,1
+125,Hudson Sq,1,1,0,0,0,0,1
+127,Inwood,1,1,0,0,0,0,1
+137,Kips Bay,1,1,0,0,1,1,1
+140,Lenox Hill East,1,0,1,1,1,0,1
+141,Lenox Hill West,1,0,0,1,0,0,1
+142,Lincoln Square East,1,0,1,0,0,0,1
+144,Little Italy/NoLiTa,1,1,1,1,0,1,1
+148,Lower East Side,1,1,1,0,0,0,1
+151,Manhattan Valley,1,0,0,0,1,0,1
+158,Meatpacking/West Village West,1,1,0,0,0,0,1
+161,Midtown Center,1,1,0,0,0,1,1
+162,Midtown East,1,1,1,0,0,0,1
+163,Midtown North,1,1,0,0,1,1,1
+164,Midtown South,1,1,0,0,0,0,1
+166,Morningside Heights,1,0,1,0,0,0,0
+170,Murray Hill,1,1,0,0,0,0,1
+186,Penn Station/Madison Sq West,1,1,1,1,0,0,1
+194,Randalls Island,1,0,0,1,0,0,0
+202,Roosevelt Island,1,0,0,0,1,1,1
+209,Seaport,1,0,0,0,0,0,1
+230,Times Sq/Theatre District,1,1,0,0,0,1,1
+231,TriBeCa/Civic Center,1,1,0,1,0,0,1
+233,UN/Turtle Bay South,1,1,1,1,0,0,1
+234,Union Sq,1,1,0,0,0,0,1
+238,Upper West Side North,1,0,0,1,0,1,1
+239,Upper West Side South,1,1,0,1,0,0,1
+243,Washington Heights North,1,1,0,0,0,0,1
+244,Washington Heights South,1,0,0,0,0,0,1
+249,West Village,1,1,1,0,0,0,1
+261,World Trade Center,1,1,0,0,0,1,1
+262,Yorkville East,1,0,1,0,0,0,1
+263,Yorkville West,1,1,0,1,0,1,1
